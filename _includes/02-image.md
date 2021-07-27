@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![A beautiful car](https://cdn.classicdigest.com/live/carimg/163701_163800/163737_b_458148c7050fe320.jpg)
